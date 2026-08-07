@@ -1,2 +1,1 @@
-requirements.txt
-worker: python bot.py
+pyTeleBotAPI==4.16.0
